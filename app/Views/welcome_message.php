@@ -13,12 +13,12 @@
 <body>
 
     <nav>
-        <div class="w-full py-4 bg-primary text-center text-white font-semibold">FACULTIES ONLINE</div>
+        <!-- <div class="w-full py-4 bg-primary text-center text-white font-semibold">FACULTIES ONLINE</div> -->
 
         <div class="flex justify-between items-center py-4 px-[50px] bg-slate-200">
             <div>
-               <a href="/"> <img src="<?= base_url('public/img/logo.jpeg') ?>" class="w-[60px]"/></a>
-            </div>  
+                <a href="/"> <img src="<?= base_url('public/img/logo.jpeg') ?>" class="w-[60px]" /></a>
+            </div>
             <div class="pl-[15rem] hidden xl:flex">
                 <ul class="flex gap-4">
                     <li class="px-2 border-r-2 border-[#535353]">FIND TUTOR PROFILE</li>
@@ -37,7 +37,7 @@
     <header>
         <div
             class="h-[80vh] bg-cover bg-center bg-no-repeat relative flex items-center justify-center"
-            style="background-image: url('<?= base_url('public/img/header_image.png') ?>');">
+            style="background-image: url('<?= base_url('public/img/header_image.webp') ?>');">
             <!-- Overlay -->
             <div class="absolute inset-0 bg-black/50"></div>
 
@@ -299,11 +299,13 @@
                 <h1 class="text-base text-white font-semibold leading-tight">
                     Faculties Online-
                 </h1>
-                <p class="text-base2x text-white font-medium mt-4">
+                <p class="text-base2x text-white font-medium my-4">
                     Contrary to popular belief, Lorem Ipsum is not simply random text.
                     It has roots in a piece of classical Latin literature from 45 BC,
                     making it over 2000 years old.
                 </p>
+
+                <button class="bg-primary text-white font-semibold px-6 py-1 rounded-md hover:bg-blue-600 transition-all flex justify-center items-center w-fit">Contact us</button>
             </div>
 
             <!-- Right Image -->
@@ -321,14 +323,14 @@
 
     <!-- Footer start  -->
 
-    <footer class="bg-[#0077FE] p-basepading grid xl:grid-cols-5 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 justify-around">
+    <footer class="bg-[#0077FE] p-basepading grid xl:grid-cols-5 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-6">
         <div class="flex flex-col gap-3">
             <h1 class="text-base2x text-white font-semibold">Faculties Online </h1>
             <p class="text-base font-medium text-white max-w-xs">Let’s Show You Various Class Promos
                 and Various Intersting Program for you</p>
 
-            <div class="bg-white flex justify-between py-1 px-4 w-fit rounded-md">
-                <input class="focus:outline-none placeholder:text-gray-400 text-gray-600 placeholder-gray-400" placeholder="Email Address.............." />
+            <div class="bg-white flex justify-between py-1 px-2 w-full rounded-md">
+                <input class="w-[60%] focus:outline-none placeholder:text-gray-400 text-gray-600 placeholder-gray-400" placeholder="Email Address.............." />
                 <button class="bg-primary text-white font-semibold px-6 py-1 rounded-md hover:bg-blue-600 transition-all flex justify-center m-auto">Submit</button>
             </div>
         </div>
