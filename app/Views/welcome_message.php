@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Faculties Online</title>
     <link rel="stylesheet" href="<?= base_url('public/styles.css') ?>">
-    <link rel="shortcut icon" href="<?= base_url('public/logo.jpeg') ?>" type="image/x-icon">
+    <link rel="shortcut icon" href="<?= base_url('public/img/logo.jpeg') ?>" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
@@ -17,7 +17,7 @@
 
         <div class="flex justify-between items-center py-4 px-[50px] bg-slate-200">
             <div>
-               <a href="/"> <img src="<?= base_url('public/logo.jpeg') ?>" class="w-[60px]"/></a>
+               <a href="/"> <img src="<?= base_url('public/img/logo.jpeg') ?>" class="w-[60px]"/></a>
             </div>  
             <div class="pl-[15rem] hidden xl:flex">
                 <ul class="flex gap-4">
@@ -37,7 +37,7 @@
     <header>
         <div
             class="h-[80vh] bg-cover bg-center bg-no-repeat relative flex items-center justify-center"
-            style="background-image: url('<?= base_url('public/header_image.png') ?>');">
+            style="background-image: url('<?= base_url('public/img/header_image.png') ?>');">
             <!-- Overlay -->
             <div class="absolute inset-0 bg-black/50"></div>
 
@@ -174,7 +174,7 @@
                 <button class="bg-primary text-white font-semibold px-4 py-2 rounded-md hover:bg-blue-600 transition-all w-fit">Find The Mentors</button>
             </div>
             <div>
-                <img src="<?= base_url('public/how_it_works_banner.png') ?>" class="rounded-md w-[70vw]" />
+                <img src="<?= base_url('public/img/how_it_works_banner.png') ?>" class="rounded-md w-[70vw]" />
             </div>
         </div>
 
@@ -272,7 +272,7 @@
                 </div>
             </div>
             <div class="m-auto">
-                <img src="<?= base_url('public/what_we_do.png') ?>" />
+                <img src="<?= base_url('public/img/what_we_do.png') ?>" />
             </div>
         </div>
 
@@ -288,7 +288,7 @@
         <div class="relative">
             <img
                 class="w-full h-[300px] object-cover"
-                src="<?= base_url('public/contact_us_banner.png') ?>"
+                src="<?= base_url('public/img/contact_us_banner.png') ?>"
                 alt="Contact Us Banner" />
         </div>
 
@@ -310,7 +310,7 @@
             <div class="absolute top-[-35px] right-0">
                 <img
                     class="w-[360px] h-auto"
-                    src="<?= base_url('public/contact_us_banner_inner_img.png') ?>"
+                    src="<?= base_url('public/img/contact_us_banner_inner_img.png') ?>"
                     alt="Inner Banner Image" />
             </div>
         </div>
