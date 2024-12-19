@@ -272,7 +272,7 @@
                 </div>
             </div>
             <div class="m-auto">
-                <img src="<?= base_url('public/img/what_we_do.png') ?>" />
+                <img src="<?= base_url('public/img/what_we_do.webp') ?>" />
             </div>
         </div>
 
@@ -312,7 +312,7 @@
             <div class="absolute top-[-35px] right-0">
                 <img
                     class="w-[360px] h-auto"
-                    src="<?= base_url('public/img/contact_us_banner_inner_img.png') ?>"
+                    src="<?= base_url('public/img/contact_us_banner_inner_img.webp') ?>"
                     alt="Inner Banner Image" />
             </div>
         </div>
@@ -386,4 +386,4 @@
 
 </body>
 
-</html>
+</html>  
