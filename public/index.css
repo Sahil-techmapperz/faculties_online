@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* For development npx tailwindcss -i ./public/index.css -o ./public/styles.css --watch */
+/* For production  * npx tailwindcss -i ./public/index.css -o ./public/styles.css --minify */
