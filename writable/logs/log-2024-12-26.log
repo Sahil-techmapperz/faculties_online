@@ -1,0 +1,1364 @@
+CRITICAL - 2024-12-26 08:40:55 --> ErrorException: Undefined variable $popularity
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 160.
+ 1 APPPATH\Views\tutor.php(160): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $popularity', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 160)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(38): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 08:59:01 --> ErrorException: Undefined variable $pager
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 161.
+ 1 APPPATH\Views\tutor.php(161): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 161)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(43): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 08:59:16 --> ErrorException: Undefined variable $pager
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 161.
+ 1 APPPATH\Views\tutor.php(161): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 161)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(43): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:00:26 --> ErrorException: Undefined variable $pager
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 161.
+ 1 APPPATH\Views\tutor.php(161): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 161)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(49): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:00:37 --> ErrorException: Undefined variable $pager
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 161.
+ 1 APPPATH\Views\tutor.php(161): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 161)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(49): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:01:01 --> ErrorException: Undefined variable $pager
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 161.
+ 1 APPPATH\Views\tutor.php(161): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 161)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(49): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:04:35 --> ErrorException: Undefined variable $pager
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 161.
+ 1 APPPATH\Views\tutor.php(161): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 161)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(49): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:04:37 --> ErrorException: Undefined variable $pager
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 161.
+ 1 APPPATH\Views\tutor.php(161): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 161)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(49): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:05:07 --> ErrorException: Undefined variable $pager
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 159.
+ 1 APPPATH\Views\tutor.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(49): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:05:09 --> ErrorException: Undefined variable $pager
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 159.
+ 1 APPPATH\Views\tutor.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(49): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:05:09 --> ErrorException: Undefined variable $pager
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 159.
+ 1 APPPATH\Views\tutor.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(49): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:05:09 --> ErrorException: Undefined variable $pager
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 159.
+ 1 APPPATH\Views\tutor.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(49): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:05:09 --> ErrorException: Undefined variable $pager
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 159.
+ 1 APPPATH\Views\tutor.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(49): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:06:48 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(53): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:06:52 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(53): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:06:52 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(53): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:06:52 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(53): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:06:53 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(53): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:06:53 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(53): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:06:53 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(53): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:07:04 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(53): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:07:06 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(53): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:07:06 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(53): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:07:06 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(53): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:13:07 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(53): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:13:10 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(53): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:13:12 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(53): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:13:26 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(53): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:15:39 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(56): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:15:40 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(56): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:15:40 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(56): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:15:40 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(56): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:15:40 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(56): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:15:41 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(56): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:15:41 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(56): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:16:42 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(57): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:16:43 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(57): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:16:43 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(57): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:16:43 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(57): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:16:43 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(57): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:16:44 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(57): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:16:44 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(57): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:21:09 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(59): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:21:11 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(59): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:21:11 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(59): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:21:11 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(59): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:21:13 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(59): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:25:53 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(59): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:25:54 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(59): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:25:54 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(59): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:25:55 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(59): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:25:55 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(59): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:25:55 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(59): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:25:57 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(59): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:31:32 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 76.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:31:32 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 76.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:31:33 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 76.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:31:33 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 76.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:31:33 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 76.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:34:36 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 76.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:34:38 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 76.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:34:38 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 76.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:34:38 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 76.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:34:38 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 76.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:34:38 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 76.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:34:38 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 76.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:35:09 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 76.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:35:10 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 76.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:35:22 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 76.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:35:24 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 76.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:35:26 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 76.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:35:28 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 76.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:35:48 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 74.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:35:49 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 74.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:35:49 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 74.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:35:49 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 74.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:35:50 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 74.
+ 1 APPPATH\Controllers\tutorcontroller.php(60): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:36:18 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(55): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:36:19 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(55): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:36:19 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(55): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:36:19 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(55): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:36:21 --> ErrorException: Undefined variable $message
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(55): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:37:15 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 73.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:37:53 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 73.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:38:21 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 73.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:38:23 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 73.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:39:47 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 73.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:39:49 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 73.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:40:03 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 73.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:40:06 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 73.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:40:07 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 73.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:40:07 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 73.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:40:08 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 73.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:40:08 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 73.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:40:08 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 73.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:40:08 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 73.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:40:08 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 73.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:40:09 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 73.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:40:09 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 73.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:40:09 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 73.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:40:37 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 71.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:40:38 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 71.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:40:38 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 71.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:40:38 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 71.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:40:40 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 71.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:40:42 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getTotalPages()
+[Method: GET, Route: tutor]
+in APPPATH\Controllers\tutorcontroller.php on line 71.
+ 1 APPPATH\Controllers\tutorcontroller.php(57): App\Controllers\Tutorcontroller->hasNext(Object(CodeIgniter\Pager\Pager), 1, 4)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 09:48:25 --> Error: Call to undefined method CodeIgniter\Pager\Pager::hasPreviousPage()
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 155.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 4 APPPATH\Controllers\tutorcontroller.php(53): view('tutor', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 10:14:16 --> Error: Call to undefined method CodeIgniter\Pager\Pager::getPrevious()
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 160.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 4 APPPATH\Controllers\tutorcontroller.php(69): view('tutor', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 10:17:47 --> ErrorException: Undefined variable $pagerLinks
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pagerLinks', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(45): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 10:18:40 --> ErrorException: Undefined variable $pagerLinks
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pagerLinks', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(45): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-26 10:18:46 --> ErrorException: Undefined variable $pagerLinks
+[Method: GET, Route: tutor]
+in APPPATH\Views\tutor.php on line 157.
+ 1 APPPATH\Views\tutor.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pagerLinks', 'C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php', 157)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\FACULTIESONLINE\\app\\Views\\tutor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('tutor', [], true)
+ 5 APPPATH\Controllers\tutorcontroller.php(45): view('tutor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Tutorcontroller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tutorcontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
