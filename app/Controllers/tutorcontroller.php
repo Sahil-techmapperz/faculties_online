@@ -21,7 +21,7 @@ class Tutorcontroller extends BaseController
         switch ($sort) {
             case 'price':
                 // Extract the minimum value from the price range for sorting
-                $orderColumn = 'CAST(SUBSTRING_INDEX(price, "-", 1) AS UNSIGNED)';
+                $orderColumn = 'CAST(SUBSTRING_INDEX(price, "-", -1) AS UNSIGNED)';
                 break;
             case 'rating':
                 $orderColumn = 'rating';
@@ -32,7 +32,7 @@ class Tutorcontroller extends BaseController
 
         // Build the complete orderBy query
         $orderQuery = "$orderColumn $orderBy";
-
+        
         // Pagination setup
         $perPage = 4; // Number of mentors per page
         $currentPage = (int)($this->request->getVar('page') ?? 1);
