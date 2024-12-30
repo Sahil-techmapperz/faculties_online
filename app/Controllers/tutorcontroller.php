@@ -6,53 +6,60 @@ use App\Models\MentorModel;
 
 class Tutorcontroller extends BaseController
 {
-    public function index(): string
+    public function index()
     {
         $mentorModel = new MentorModel();
 
-        // Get sorting criteria from query parameters
+        // Get sorting criteria and orderBy from query parameters
         $sort = $this->request->getVar('sort') ?? 'popular';
+        $orderBy = $this->request->getVar('orderBy') ?? 'ASC'; // Default to ASC for price
 
-        // Set sorting order
+        // Ensure valid values for `orderBy`
+        $orderBy = strtoupper($orderBy) === 'DESC' ? 'DESC' : 'ASC';
+
+        // Determine the column to sort by
         switch ($sort) {
             case 'price':
-                $orderBy = 'price ASC';
+                // Extract the minimum value from the price range for sorting
+                $orderColumn = 'CAST(SUBSTRING_INDEX(price, "-", 1) AS UNSIGNED)';
                 break;
             case 'rating':
-                $orderBy = 'rating DESC';
+                $orderColumn = 'rating';
                 break;
             default:
-                $orderBy = 'popularity DESC';
+                $orderColumn = 'popularity';
         }
+
+        // Build the complete orderBy query
+        $orderQuery = "$orderColumn $orderBy";
 
         // Pagination setup
         $perPage = 4; // Number of mentors per page
-        $currentPage = $this->request->getVar('page') ?? 1;
+        $currentPage = (int)($this->request->getVar('page') ?? 1);
 
         // Fetch mentors based on sorting and pagination
         $mentors = $mentorModel
-            ->orderBy($orderBy)
+            ->orderBy($orderQuery)
             ->paginate($perPage, 'mentors', $currentPage);
 
-        // Get the total number of results
-        $totalResults = $mentorModel->countAllResults(); 
+        // Total results for all mentors
+        $totalResults = $mentorModel->countAllResults(false); // Avoid re-querying
 
         // Calculate total pages
-        $totalPages = ceil($totalResults / $perPage); 
-
-         // Get the total number of results
-         $totalResults = $mentorModel->countAllResults();
+        $totalPages = (int)ceil($totalResults / $perPage);
 
         // Prepare query parameters for pagination links
         $queryParams = $this->request->getVar();
-        unset($queryParams['page']); // Remove page from query parameters to prevent duplicates
-        $queryParams['sort'] = $sort; // Ensure sort is passed
+        unset($queryParams['page']); // Remove the page key
+        $queryParams['sort'] = $sort;
+        $queryParams['orderBy'] = $orderBy;
 
         return view('tutor', [
             'mentors' => $mentors,
             'currentPage' => $currentPage,
             'totalPages' => $totalPages,
             'currentSort' => $sort,
+            'currentOrderBy' => $orderBy,
             'queryParams' => $queryParams, // Pass query parameters for pagination
             'totalResults' => $totalResults, // Pass total mentors to the view
         ]);
